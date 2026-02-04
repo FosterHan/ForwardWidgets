@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T06:40:02.951634",
+  "last_updated": "2026-02-04T12:38:24.782838",
   "cctv": [
     {
       "name": "CCTV-1 综合",
@@ -384,9 +384,7 @@
       "name": "浙江教科",
       "description": "",
       "backdrop_path": "https://ik.imagekit.io/2kuai/tr:l-image,i-TV.png,w-bw_mul_2.3,h-bh_mul_3,bg-848484,lfo-center,l-image,i-浙江教科影视.png,lfo-center,l-end,l-end/浙江教科影视.png",
-      "childItems": [
-        "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-      ]
+      "childItems": []
     },
     {
       "name": "浙江国际",
