@@ -2,35 +2,35 @@
   "526461": {
     "name": "惊悚恐怖片",
     "shows": [],
-    "totalItems": 24,
-    "totalPages": 1,
+    "totalItems": 0,
+    "totalPages": 0,
     "successfulMatches": 0,
-    "successRate": "0.0%"
+    "error": "无项目数据"
   },
   "2942804": {
     "name": "高分韩剧",
     "shows": [],
-    "totalItems": 224,
-    "totalPages": 9,
+    "totalItems": 0,
+    "totalPages": 0,
     "successfulMatches": 0,
-    "successRate": "0.0%"
+    "error": "无项目数据"
   },
-  "last_updated": "2026-02-07T00:47:59.204+08:00",
+  "last_updated": "2026-02-08T00:31:38.998+08:00",
   "total_lists": 4,
   "movie_weekly_best": {
     "name": "一周电影口碑榜",
     "shows": [],
-    "totalItems": 10,
-    "totalPages": 1,
+    "totalItems": 0,
+    "totalPages": 0,
     "successfulMatches": 0,
-    "successRate": "0.0%"
+    "error": "无项目数据"
   },
   "tv_chinese_best_weekly": {
     "name": "华语口碑剧集榜",
     "shows": [],
-    "totalItems": 10,
-    "totalPages": 1,
+    "totalItems": 0,
+    "totalPages": 0,
     "successfulMatches": 0,
-    "successRate": "0.0%"
+    "error": "无项目数据"
   }
 }
