@@ -15,22 +15,22 @@
     "successfulMatches": 0,
     "error": "无项目数据"
   },
-  "last_updated": "2026-02-08T00:31:38.998+08:00",
+  "last_updated": "2026-02-09T00:32:42.293+08:00",
   "total_lists": 4,
   "movie_weekly_best": {
     "name": "一周电影口碑榜",
     "shows": [],
-    "totalItems": 0,
-    "totalPages": 0,
+    "totalItems": 10,
+    "totalPages": 1,
     "successfulMatches": 0,
-    "error": "无项目数据"
+    "successRate": "0.0%"
   },
   "tv_chinese_best_weekly": {
     "name": "华语口碑剧集榜",
     "shows": [],
-    "totalItems": 0,
-    "totalPages": 0,
+    "totalItems": 10,
+    "totalPages": 1,
     "successfulMatches": 0,
-    "error": "无项目数据"
+    "successRate": "0.0%"
   }
 }
