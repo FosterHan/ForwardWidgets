@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-04T14:47:04.111+08:00",
+  "last_updated": "2026-07-05T15:26:12.768+08:00",
   "迷雾剧场": {
     "aired": [],
     "upcoming": [],
-    "totalItems": 0,
-    "totalPages": 0
+    "totalItems": 30,
+    "totalPages": 2
   },
   "白夜剧场": {
     "aired": [],
     "upcoming": [],
-    "totalItems": 0,
-    "totalPages": 0
+    "totalItems": 17,
+    "totalPages": 1
   },
   "X剧场": {
     "aired": [],
     "upcoming": [],
-    "totalItems": 0,
-    "totalPages": 0
+    "totalItems": 14,
+    "totalPages": 1
   }
 }
